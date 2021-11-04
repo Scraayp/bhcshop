@@ -1,7 +1,6 @@
 <template>
-<head>
-  <title>{{ title }}</title>
+  <head>
+    <title>{{ title }}</title>
   </head>
-  <router-view/>
+  <router-view />
 </template>
-
