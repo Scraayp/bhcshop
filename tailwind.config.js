@@ -1,15 +1,8 @@
 module.exports = {
-  purge: [],
+  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   darkMode: "media", // or 'media' or 'class'
   theme: {
-    extend: {
-      colors: {
-        dark: {
-          gray: "#121212",
-          navbar: "#1F1F1F",
-        },
-      },
-    },
+    extend: {},
   },
   variants: {
     extend: {},
