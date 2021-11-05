@@ -15,4 +15,11 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+# Lint the website
+yarn lint || yarn lint:js || yarn lint:e2e
+
+# Test the website
+yarn test:e2e
+
 ```
