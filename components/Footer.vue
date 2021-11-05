@@ -86,13 +86,3 @@
     </div>
   </section>
 </template>
-
-<script>
-export default {
-  name: "Footer",
-};
-</script>
-
-<style>
-@import "@/assets/tailwind.css";
-</style>

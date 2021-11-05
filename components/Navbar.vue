@@ -44,7 +44,6 @@
               lg:text-base
               md:w-3/4 md:bg-transparent md:p-0 md:relative md:flex
             "
-            :class="{ flex: showMenu, hidden: !showMenu }"
           >
             <div
               class="
@@ -197,7 +196,6 @@
             </div>
           </div>
           <div
-            @click="showMenu = !showMenu"
             class="
               absolute
               right-0
@@ -214,7 +212,6 @@
               hover:bg-gray-900 hover:bg-opacity-10
               text-gray-100
             "
-            :class="{ 'text-gray-400': showMenu, 'text-gray-100': !showMenu }"
           >
             <svg
               class="w-6 h-6"
@@ -250,13 +247,3 @@
     </div>
   </section>
 </template>
-
-<script>
-export default {
-  name: "Navbar",
-};
-</script>
-
-<style>
-@import "@/assets/tailwind.css";
-</style>
