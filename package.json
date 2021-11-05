@@ -9,8 +9,8 @@
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "yarn lint:js",
-    "test:dev": "nightwatch",
-    "test": "echo \"Test is not setup! Use test:dev instead\" && exit 1"
+    "test:e2e": "nightwatch",
+    "test": "echo \"Test is not setup! Use test:dev instead\" "
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
