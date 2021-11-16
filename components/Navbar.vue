@@ -140,6 +140,22 @@
                   "
                   ><router-link to="/contact">Contact</router-link></a
                 >
+                <a
+                  class="
+                    inline-block
+                    px-0 px-4
+                    py-2
+                    mx-2
+                    font-medium
+                    text-left
+                    md:px-0
+                    hover:text-indigo-800
+                    md:hover:text-white
+                    lg:mx-3
+                    md:text-center
+                  "
+                  ><router-link to="/rechten">Rechten</router-link></a
+                >
               </div>
               <div
                 class="
