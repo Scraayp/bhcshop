@@ -35,7 +35,7 @@
         </div>
         <div class="px-5 py-2">
           <a class="text-base leading-6 text-gray-500 hover:text-gray-900"
-            ><router-link to="/terms">Terms</router-link></a
+            ><router-link to="/rechten">Rechten</router-link></a
           >
         </div>
       </nav>
