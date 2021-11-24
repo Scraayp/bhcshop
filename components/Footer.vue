@@ -86,3 +86,8 @@
     </div>
   </section>
 </template>
+
+
+export default {
+  name: 'Footer',
+}
