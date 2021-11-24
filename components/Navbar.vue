@@ -263,3 +263,7 @@
     </div>
   </section>
 </template>
+
+export default {
+  name: 'Navbar',
+}
