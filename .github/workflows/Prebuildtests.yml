@@ -1,4 +1,4 @@
-name: ci
+name: Prebuildtests
 
 on:
   push:
