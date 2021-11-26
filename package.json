@@ -29,6 +29,6 @@
     "eslint-plugin-vue": "^8.1.1",
     "nightwatch": "^1.7.12",
     "postcss": "^8.4.1",
-    "prettier": "^2.3.2"
+    "prettier": "^2.5.0"
   }
 }
