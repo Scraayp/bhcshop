@@ -2620,10 +2620,10 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, can
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001277.tgz#9416dae5e075f47eacd8e0475ae1dcc5a20e9ca5"
   integrity sha512-J2WtYj2Pl6LBEG214XmbGw1gzZEsYuinQFPqYtpZDB3/vm49qNlrcbJrTMkHKmdRDdmXYwkG0tgOBJsuI+J12Q==
 
-chai-nightwatch@0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/chai-nightwatch/-/chai-nightwatch-0.5.2.tgz#2901778f215852a22f264d1a62e705cd1a662bd5"
-  integrity sha512-t/sgWZ5liEDpILNXGOBa/LSSWRh7s6HrWbShGi+VDM7BX6oljsui+qLlKHJvU+R/klOcSOU6HLytkuPRlj8Whw==
+chai-nightwatch@0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/chai-nightwatch/-/chai-nightwatch-0.5.3.tgz#980ecf63dde5a04e7f3524370682c7ff01178ffb"
+  integrity sha512-38ixH/mqpY6IwnZkz6xPqx8aB5/KVR+j6VPugcir3EGOsphnWXrPH/mUt8Jp+ninL6ghY0AaJDQ10hSfCPGy/g==
   dependencies:
     assertion-error "1.1.0"
 
@@ -6515,15 +6515,15 @@ neo-async@^2.5.0, neo-async@^2.6.1, neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-nightwatch@^2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-2.0.4.tgz#4749f93726c7c98be1579ec2ea8afee5de4c06f9"
-  integrity sha512-CWt5PAQrJqH3Fen9RO0t8zGHf70J3/rMDIxcob5BGo3GtMlUmwJ+Sz14jqubkash3TUs7T0Osy5V9zSqRf3AYw==
+nightwatch@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-2.0.5.tgz#282e82154546d210e30bc6971b602f796186edd7"
+  integrity sha512-rVQGbGtgCxVnhQonp2DNDuhyZQw2LuVfRS7oWymXwXZFp2/azVTHxa9hsUblwqc5tKQxB1Tzq8EdGG7yqYyzLw==
   dependencies:
     "@nightwatch/chai" "5.0.1"
     assertion-error "1.1.0"
     boxen "5.1.2"
-    chai-nightwatch "0.5.2"
+    chai-nightwatch "0.5.3"
     ci-info "^3.2.0"
     didyoumean "^1.2.2"
     dotenv "10.0.0"
