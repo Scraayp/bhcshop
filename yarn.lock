@@ -6588,10 +6588,10 @@ neo-async@^2.5.0, neo-async@^2.6.1, neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-nightwatch@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-2.1.2.tgz#7df60eae12123c8b8d4787ca8b600cf6029ddeec"
-  integrity sha512-you8RJ6LxkkMkAXnHFSbPVQVDeB1ZA4QyEArjK7n4v4r6XADlNt5hd/ijHqzjwVHhhfDeXYVJXznsZKKA/NQ0Q==
+nightwatch@^2.1.4:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-2.1.4.tgz#5363cf8fb3abc886f00cb4523339c71a85a015bf"
+  integrity sha512-IozG45KPn2Rth3vbm6/KBlrK+G4f4ut711aaMcCIX+QKrunLuMGWziM4708DYqgToZ65muMTfd3QsNm2SYqHkQ==
   dependencies:
     "@nightwatch/chai" "5.0.2"
     "@nightwatch/ejs" "3.2.0"
